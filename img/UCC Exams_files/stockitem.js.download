@@ -1,0 +1,30 @@
+// JavaScript Document
+
+$(document).ready(function(){
+		
+		$("#date").datepicker();
+		
+		$("#date1").datepicker();
+		$("#date2").datepicker();
+		$("#date3").datepicker();
+		
+		$("#frmform").validate({
+			rules:{
+				name : "required"
+			}
+		});
+		
+				   
+		$("frmcreateuser").validate({
+			
+				rules:{
+							name: "required",
+							fname:{required:true},
+							staffnumber:{required:true}
+							
+							
+						}
+			
+			});		   
+				   
+		});

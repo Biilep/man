@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+html
+	{
+		
+		color:#2A1F00;
+		background-color:#FFF;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+body{font-family:Verdana, Arial, Helvetica, sans-serif;}
+
+
+#bar1 
+	{color:#FFF;
+	background-color:#2A0055;
+	height:30px;
+	
+	}
+#bar2 
+	{
+		background-color:#D49F00;
+		height:12px;
+	}
+
+#header1
+	{
+		height:5px;
+		background-color:#F90;
+		width:100%;
+		vertical-align:middle;
+	}
+#header2
+	{
+		height:15px;
+		background-color:#06C;
+		width:100%;
+		vertical-align:middle;
+	}
+#header3
+	{
+		height:25px;
+		background-color:#9F9F9F;
+		
+		vertical-align:middle;
+	}
+#header4
+	{
+		height:25px;
+		background-color:#557FFF;
+		width:100%;
+		vertical-align:middle;
+	}
+
+#firsthead 
+	{
+		height:60px;
+		color:#00C;
+		background-color:#FFF;
+		
+	}
+a 
+	{
+		text-align:center;
+		color:#009;
+		font-weight:bold;
+		text-decoration:none;
+	}
+a:hover {
+	color:#F03;
+	border-bottom-color:#000;
+}
+#link
+	{
+		text-align:center;
+		
+	}
+#lefttable
+	{
+		width:20%;
+		
+	}
+#leftcorner
+	{
+	
+		width:100%;
+		background-color:#E6EFF7;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		
+	}
+#tb_set 
+	{
+		padding-top:-10px;
+	}
+#set
+	{
+		font-size:12px;
+		
+	}
+#footer
+	{
+		background-color:#E6EFF7;
+		height:40px;
+		width:100%;
+		vertical-align:middle;
+		margin-top:3%;
+	}
+		
+#tabletop 
+	{
+		
+		padding-left:2%;
+		padding-right:2%;
+		border:1px solid #D8D8D8;
+		width:100%;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+				
+	}
+#tabletop td {
+			padding-bottom:1%;
+			 padding-top:1%;
+		 }
+#tabletr
+		{
+			 border:1px solid #D8D8D8;
+		}
+
+#tablehead 
+	{
+		background-color:#E6EFF7;
+		color:#00C;
+		text-align:center;
+		font-weight:bolder;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		border-bottom:1px solid #CCC;
+	}
+	
+#container 
+{ 
+	margin:1%;
+	border:2px solid #FFF; background:#FFF;
+}
+
+#pics
+	{
+		background-color:#999;
+		border:dashed;
+		border-color:#666;
+	}
+#tableboder
+{
+	
+	border-style:solid;
+	border-width:thin;
+}
